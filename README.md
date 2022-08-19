@@ -1,14 +1,15 @@
 # OceanHackWeek22 Project
 ## Nutrients Clustering on H.O.T
 Clusters in profiles of nutrients and their correlation with phytoplankton communities
+
 ---
 ### Collaborators
 
-Laurel Meke 
-Nate Lauffenburger 
-Xinjin Li 
-Mariam Garcia 
-Sara Delawalla 
+Laurel Meke  
+Nate Lauffenburger  
+Xinjin Li  
+Mariam Garcia  
+Sara Delawalla  
 
 ---
 ### Goals
