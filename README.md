@@ -3,6 +3,14 @@
 Clusters in profiles of nutrients and their correlation with phytoplankton communities
 
 ---
+### File
+Nutrients_Clustering_full.ipynb: All data and machine learning algorithms.  
+Supversied learning part on HOT raw data (not PCA): hot_supervised.ipynb.   
+Slides used in OceanHackWeek22: OHW22 Presentation.pptx.  
+PDF version of the presentation slides: OHW22 Presentation.pdf.  
+
+
+---
 ### Collaborators
 
 Laurel Meke  
